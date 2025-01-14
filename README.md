@@ -21,7 +21,7 @@ The analysis involves data cleaning, visualization, and deriving insights from v
    ```
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Movie_Portfolio_Project.ipynb
+   jupyter notebook MovieDataAnalysis.ipynb
    ```
 
 ## Project Highlights
